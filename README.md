@@ -1,6 +1,6 @@
 ### Hi, I'm Gayan 👋
 
-**RevOps & Data consultant** — I help B2B go-to-market teams turn messy CRM data into pipeline, and manual busywork into automations that just run.
+**RevOps & Data Analyst** — I help B2B go-to-market teams turn messy CRM data into pipeline, and manual busywork into automations that just run.
 
 5+ years across BI consulting, market-intelligence analytics and SaaS revenue operations, working with GTM teams around the world.
 
