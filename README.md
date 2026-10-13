@@ -22,6 +22,7 @@
 
 | Project | What it does |
 |---|---|
+| [Mochi (bouncer-postie)](https://github.com/GayanPriyadarshana/bouncer-postie) | Bulk email & website checker for CRM lists: Bouncer verification, Apollo replacement contacts, Salesforce sync |
 | [n8n-automations](https://github.com/GayanPriyadarshana/n8n-automations) | Production n8n workflows for CRM enrichment, ICP classification, job-title normalisation and a LinkedIn → Slack agent |
 | [Widget](https://github.com/GayanPriyadarshana/Widget) | Interactive financial-market widget in Plotly Dash |
 | [Streamlit](https://github.com/GayanPriyadarshana/Streamlit) | Library of reusable Streamlit chart components |
