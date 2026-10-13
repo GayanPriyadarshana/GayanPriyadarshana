@@ -33,5 +33,5 @@ HubSpot Revenue Operations, Sales Enablement & Inbound Marketing (2025) · Table
 
 #### Let's work together
 
-Open to **freelance and contract** RevOps, automation and analytics projects.
+Open to **full-time, part-time and freelance** roles in RevOps, automation and analytics.
 [LinkedIn](https://www.linkedin.com/in/gayan-priyadarshana-8b1ab897) · hewagegayanpriyadarshana@gmail.com
